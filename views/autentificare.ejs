@@ -1,0 +1,13 @@
+<h2>Va rugam sa va logati mai jos:</h1>
+<div class="log">
+<% if (tipEroare!=null) { %>
+    <p><%-tipEroare%></p>
+ <%}%>
+<form action="/verificare-autentificare" method="post" >
+    <input type="text" id="login" name="login" placeholder="login" /><br/>
+    <input type="password" id="password" name="parola" placeholder="password"> <br />
+    <input type="submit" value="Logare"> <br />
+    </form>
+</div>
+
+

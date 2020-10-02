@@ -1,0 +1,24 @@
+{"listaIntrebari" : 
+  [
+      {
+          "intrebare": "In ce perioada a fost descoperita cafeaua?",
+          "variante": ["Inainte de sex XIII ", "Sec XIII-XV", "Sec XVI-XVIII", "Sec XIX-XXI"],
+          "corect": 0
+      },
+      {
+          "intrebare": "Care este cantitatea letala de cofeina ?",
+          "variante": ["8 grame" ,"15 grame","3 grame" ,"10 grame"],
+          "corect":3
+      }, 
+      {
+        "intrebare": "Cafeaua este cel mai consumată băutură din lume. Câte ceşti se beau într-o singură zi în întreaga lume?",
+        "variante": ["730 milioane" ,"1,2 miliarde","2,25 miliarde" ,"8.3 miliarde"],
+        "corect":2
+      },
+      {
+        "intrebare": "Ce tip de cafea contine mai multa cofeina ?",
+        "variante": ["prajita usor" ,"prajita mediu","intens" ,"toate"],
+        "corect":0
+      }
+  ]
+  }
